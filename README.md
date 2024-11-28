@@ -46,6 +46,16 @@ JavaDoc: Ferramenta para a documentação do código.
 Maven: Gerenciador de dependências e build do projeto.
 MySQL (opcional): Para armazenamento persistente (pode ser integrado futuramente).
 
+▶️ Executando projeto:
+
+
+
+
+
+<img width="693" alt="Interface poo - agenda pessoal" src="https://github.com/user-attachments/assets/1ab17819-416d-4539-9a9d-b13d14709ef3">
+
+
+
 
 📌 Versão
 * Versão 1.0 - Implementação inicial
