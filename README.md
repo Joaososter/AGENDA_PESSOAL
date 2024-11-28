@@ -41,10 +41,16 @@ POR FIM, ARMAZENE O PROJETO EM UM REPOSITÓRIO REMOTO;
 🛠️ Construído com
 
 Java 11: Linguagem de programação principal do projeto.
+
 Java Swing: Biblioteca para a interface gráfica.
+
 JavaDoc: Ferramenta para a documentação do código.
+
 Maven: Gerenciador de dependências e build do projeto.
+
 MySQL (opcional): Para armazenamento persistente (pode ser integrado futuramente).
+
+
 
 ▶️ Executando projeto:
 
