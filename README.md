@@ -66,7 +66,8 @@ MySQL (opcional): Para armazenamento persistente (pode ser integrado futuramente
 📌 Versão
 * Versão 1.0 - Implementação inicial
 
-✒️ Autores
+✒️ Autores:
+
 João Soster - Trabalho Inicial - programação orientada a objetos
 
 
